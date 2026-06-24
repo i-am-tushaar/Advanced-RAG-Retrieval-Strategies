@@ -1,0 +1,59 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Models
+models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Vector Databases
+vectorstore/
+chroma_db/
+faiss_index/
+weaviate_data/
+
+# Data Files
+data/raw/
+data/interim/
+data/processed/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+temp/
+tmp/
