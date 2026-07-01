@@ -33,7 +33,6 @@ models/
 
 # Vector Databases
 vectorstore/
-chroma_db/
 faiss_index/
 weaviate_data/
 
