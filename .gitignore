@@ -2,6 +2,7 @@
 venv/
 .env/
 rag_env
+adv_rag
 
 # Python
 __pycache__/
