@@ -3,6 +3,7 @@ venv/
 .env/
 rag_env
 adv_rag
+neo4j_env/
 
 # Python
 __pycache__/
